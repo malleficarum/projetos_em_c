@@ -1,2 +1,2 @@
-# exercicios_em_c
-códigos de treinos | cursos &amp; aulas | C
+# Exercícios em C
+### 💻 Cursos do Udemy, aulas da facu & Beecrowd!
